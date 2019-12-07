@@ -18,18 +18,14 @@ AI Selfieを使うと、スマートフォンだけで簡単に顔出し実況�
 ステータスバーから終了することもできます。<br>
 
 ## 縦画面
-<table border=0><tr><td>
-<img src="https://raw.githubusercontent.com/aicast-live/selfie-support/master/images/Screenshot_20191204-161349.jpg" width=250 />
-</td><td>
-<img src="images/Screenshot_20191205-110427.jpg" width=250 />
-</td></tr>
-</table>
+<img src="images/Screenshot_20191204-161349.jpg" width=250 /> <img src="images/Screenshot_20191205-110427.jpg" width=250 />
 
 ## 横画面
 <img src="images/Screenshot_20191206-020820_Call of Duty.jpg" width=500 />
 
 ## ダウンロード
 ダウンロードは[こちら Google Play](https://play.google.com/store/apps/details?id=live.aicast.selfie)<br>
+<a href="https://play.google.com/store/apps/details?id=live.aicast.selfie"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="75"></a><br>
 https://play.google.com/store/apps/details?id=live.aicast.selfie
 
 ## 対象機種
