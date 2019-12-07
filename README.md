@@ -32,5 +32,8 @@ https://play.google.com/store/apps/details?id=live.aicast.selfie
 ## 対象機種
 Android 6以降
 
+## プライバシーボリシー
+<a href="https://aicast-live.github.io/selfie-support/privacy">https://aicast-live.github.io/selfie-support/privacy</a>
+
 ## お問い合わせ
 ご意見・ご要望・ご質問は[こちらのgithub issues](https://github.com/aicast-live/selfie-support/issues)にお願いします。
