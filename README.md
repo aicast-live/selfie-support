@@ -20,7 +20,7 @@ AI Selfieを使うと、スマートフォンだけで簡単に顔出し実況�
 <table border=0><tr><td>
 <img src="images/Screenshot_20191204-161349.jpg" width=250 >
 </td><td>
-<img src="images/Screenshot_20191205-110427.png" width=250 >
+<img src="images/Screenshot_20191205-110427.jpg" width=250 >
 </td></tr>
 </table>
 
