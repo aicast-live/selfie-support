@@ -19,14 +19,14 @@ AI Selfieを使うと、スマートフォンだけで簡単に顔出し実況�
 
 ## 縦画面
 <table border=0><tr><td>
-<img src="https://aicast-live.github.io/selfie-support/images/Screenshot_20191204-161349.jpg" width=250 />
+<img src="images/Screenshot_20191204-161349.jpg" width=250 />
 </td><td>
-<img src="https://aicast-live.github.io/selfie-support/images/Screenshot_20191205-110427.jpg" width=250 />
+<img src="images/Screenshot_20191205-110427.jpg" width=250 />
 </td></tr>
 </table>
 
 ## 横画面
-<img src="https://aicast-live.github.io/selfie-support/images/Screenshot_20191206-020820_Call of Duty.jpg" width=500 />
+<img src="images/Screenshot_20191206-020820_Call of Duty.jpg" width=500 />
 
 ## ダウンロード
 ダウンロードは[こちら Google Play](https://play.google.com/store/apps/details?id=live.aicast.selfie)<br>
