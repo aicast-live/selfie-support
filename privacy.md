@@ -28,4 +28,4 @@
 
 ### ■お問い合わせ
 当社による個人情報の取扱いに関するお問い合わせは､以下までお願いいたします｡<br>
-AICast 個人情報管理責任者 privacy@aicast.live
+個人情報管理責任者 privacy あっとまーく aicast.live
