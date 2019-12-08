@@ -21,8 +21,13 @@ AI Selfieを使うと、スマートフォンだけで簡単に顔出し実況�
 もう一度アプリアイコンをタップすると終了します。<br>
 ステータスバーから終了することもできます。<br>
 
-## 縦画面
-![](images/s1.jpg) ![](images/s2.jpg)
+## 縦画面例
+![](images/s1.jpg) ![](images/s2.jpg)<br>
+コトダマン
+
+## 横画面例
+![](images/s3.jpg)<br>
+Call of Duty: Mobile
 
 ## 設定画面
 ![](images/screen_face_ja_240.png) ![](images/screen_face_en_240.png) <br>
