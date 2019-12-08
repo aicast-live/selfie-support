@@ -24,6 +24,9 @@ AI Selfieを使うと、スマートフォンだけで簡単に顔出し実況�
 ## 縦画面
 ![](images/s1.jpg) ![](images/s2.jpg)
 
+## 設定画面
+![](images/screen_face_ja_240.png) ![](images/screen_face_en_240.png) <br>
+
 ## ダウンロード
 ダウンロードは[こちら Google Play](https://play.google.com/store/apps/details?id=live.aicast.selfie)<br>
 <a href="https://play.google.com/store/apps/details?id=live.aicast.selfie"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="75"></a><br>
