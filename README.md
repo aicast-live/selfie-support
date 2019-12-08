@@ -3,8 +3,8 @@
 AI Selfieを使うと、スマートフォンだけで簡単に顔出し実況中継ができます。このアプリを立ち上げてゲームをするだけ!!今までパソコンや機材が必要で手間や時間がかかった顔出しゲーム実況中継が簡単にできます。AIを使ってスマホのカメラに写った画像から人の顔部分を特定し抽出します。これからゲーム実況を考えている方や、すでに実況している方は是非トライしてみてください!!
 
 ### PC不要、スマホのみ！！
-スマホのカメラを使ってあなたのプレイ中の顔を移します。
-専用の撮影機材や配線、ソフトの設定は不要です。
+スマホのカメラを使ってあなたのプレイ中の顔を写します。AIが自動的に背景を除去します。
+専用の撮影機材や配線、映像編集ソフトは不要です。
 
 ### 顔出しすると差別化になる！！
 ゲーム実況者はたくさんいますが、顔出しまでしているゲーム実況者は少ないので差別化ができます。
@@ -40,8 +40,12 @@ https://play.google.com/store/apps/details?id=live.aicast.selfie
 ## 対象機種
 Android 6以降
 
-## プライバシーボリシー
-<a href="https://aicast-live.github.io/selfie-support/privacy">https://aicast-live.github.io/selfie-support/privacy</a>
+## サポートWebサイト
+<a href="https://aicast-live.github.io/selfie-support">https://aicast-live.github.io/selfie-support</a>
 
 ## お問い合わせ
+技術的な問題の報告や新機能の提案など、
 ご意見・ご要望・ご質問は[こちらのgithub issues](https://github.com/aicast-live/selfie-support/issues)にお願いします。
+
+## プライバシーボリシー
+<a href="https://aicast-live.github.io/selfie-support/privacy">https://aicast-live.github.io/selfie-support/privacy</a>
