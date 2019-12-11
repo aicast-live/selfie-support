@@ -32,7 +32,7 @@ AI Selfieを使うと、スマホだけで簡単に顔出し実況中継がで�
 Call of Duty: Mobile
 
 ## 設定画面
-![](images/screen_face_ja_240.png) ![](images/screen_face_en_240.png) <br>
+![](images/device-2019-12-12-033350_240.png) ![](images/device-2019-12-12-033507_240.png) ![](images/device-2019-12-12-033622_240.png) <br>
 
 ## ダウンロード
 ダウンロードは[こちら Google Play](https://play.google.com/store/apps/details?id=live.aicast.selfie)<br>
