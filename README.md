@@ -1,4 +1,10 @@
 ## AI Selfie サポートページ
+[![](https://img.youtube.com/vi/fO8Jezlbb6s/0.jpg)](https://www.youtube.com/watch?v=fO8Jezlbb6s)<br>
+コトダマン<br><br>
+
+[![](https://img.youtube.com/vi/3TjDx7z2laU/0.jpg)](https://www.youtube.com/watch?v=3TjDx7z2laU)<br>
+カラオケ<br><br>
+
 ![](images/s3.jpg) <br>
 Call of Duty: Mobile<br>
 <br>
@@ -24,6 +30,7 @@ AI Selfieを使うと、スマホだけで簡単に顔出し実況中継がで�
 録画終了ボタンを押すと録画が終了します。<br>
 左上のバツボタンをタップするとカメラを終了します。<br>
 ステータスバーから終了することもできます。<br>
+録画履歴画面からYouTube/facebook/LINEにアップロードしてください<br>
 
 ## 縦画面例
 ![](images/s1.jpg) ![](images/s2.jpg)<br>
