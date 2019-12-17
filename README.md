@@ -5,9 +5,9 @@
 [![](https://img.youtube.com/vi/3TjDx7z2laU/0.jpg)](https://www.youtube.com/watch?v=3TjDx7z2laU)<br>
 カラオケ<br><br>
 
-![](images/s3.jpg) <br>
-Call of Duty: Mobile<br>
-<br>
+[![](https://img.youtube.com/vi/4Kz29CSL0vw/0.jpg)](https://www.youtube.com/watch?v=4Kz29CSL0vw)<br>
+Call of Duty: Mobile<br><br>
+
 AI Selfieを使うと、スマホだけで簡単に顔出し実況中継ができます。このアプリを立ち上げてゲームをするだけ!!今までパソコンや機材が必要で手間や時間がかかった顔出しゲーム実況中継が簡単にできます。AIを使ってスマホのカメラに写った画像から人の顔部分を特定し抽出します。これからゲーム実況を考えている方や、すでに実況している方は是非トライしてみてください!!
 
 ### PC不要、スマホのみ！！
