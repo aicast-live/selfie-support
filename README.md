@@ -54,6 +54,10 @@ Android 6以降
 ## サポートWebサイト
 <a href="https://aicast-live.github.io/selfie-support">https://aicast-live.github.io/selfie-support</a>
 
+## twitter
+<a href="https://twitter.com/aicast_live">https://twitter.com/aicast_live</a>
+リリース情報以外に作者のゲーム、カラオケなど
+
 ## お問い合わせ
 技術的な問題の報告や新機能の提案など、
 ご意見・ご要望・ご質問は[こちらのgithub issues](https://github.com/aicast-live/selfie-support/issues)にお願いします。
